@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Tutorial/Intermediate/CachedAssetRegistry.bin
+Tutorial/Saved/Logs/Tutorial.log
+Tutorial/Saved/Logs/Tutorial.log
+Tutorial/Intermediate/CachedAssetRegistry.bin
+Tutorial/Saved/AutoScreenshot.png
+Tutorial/Saved/Config/Windows/EditorPerProjectUserSettings.ini
