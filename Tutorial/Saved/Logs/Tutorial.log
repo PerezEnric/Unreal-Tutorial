@@ -986,3 +986,309 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.14-10.46.28:487][510]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.14-10.46.28:487][510]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Map_BuiltData.Map_BuiltData
 [2021.06.14-10.46.28:488][510]LogContentValidation: Display: Validating World /Game/Levels/Map.Map
+[2021.06.14-10.51.28:624][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes95)
+[2021.06.14-10.51.29:557][ 56]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxHighRes95)
+[2021.06.14-10.51.31:317][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes95)
+[2021.06.14-10.51.33:217][492]Cmd: DELETE
+[2021.06.14-10.51.33:217][492]Cmd: ACTOR DELETE
+[2021.06.14-10.51.33:221][492]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.14-10.51.33:227][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.14-10.51.33:229][492]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.14-10.51.34:561][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes92)
+[2021.06.14-10.52.48:329][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes94)
+[2021.06.14-10.52.57:550][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes59)
+[2021.06.14-10.56.28:494][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.06.14-10.56.28:546][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map" FILE="../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Autosaves/Game/Levels/Map_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.14-10.56.28:601][ 48]LogSavePackage: Moving '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Map_Auto3B471AC0D4F8B40302B0D299513EB1C54.tmp' to '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Autosaves/Game/Levels/Map_Auto3.umap'
+[2021.06.14-10.56.28:603][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Map' took 0.117
+[2021.06.14-10.56.28:603][ 48]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.117
+[2021.06.14-10.56.49:291][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes59)
+[2021.06.14-10.57.08:770][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes77)
+[2021.06.14-10.57.09:036][400]Cmd: TRANSACTION UNDO
+[2021.06.14-10.57.09:036][400]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.14-10.57.09:380][422]Cmd: TRANSACTION UNDO
+[2021.06.14-10.57.09:381][422]LogEditorTransaction: Undo Move Actors
+[2021.06.14-10.57.09:715][453]Cmd: TRANSACTION UNDO
+[2021.06.14-10.57.09:715][453]LogEditorTransaction: Undo Move Actors
+[2021.06.14-10.57.15:607][158]Cmd: TRANSACTION UNDO
+[2021.06.14-10.57.15:607][158]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.14-10.58.48:606][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes94)
+[2021.06.14-10.58.56:054][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes92)
+[2021.06.14-10.59.20:309][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes92)
+[2021.06.14-10.59.40:160][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes79)
+[2021.06.14-10.59.44:063][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes77)
+[2021.06.14-10.59.53:112][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes60)
+[2021.06.14-11.00.03:525][863]Cmd: TRANSACTION UNDO
+[2021.06.14-11.00.03:525][863]LogEditorTransaction: Undo Move Actors
+[2021.06.14-11.00.53:114][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes76)
+[2021.06.14-11.01.10:332][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes59)
+[2021.06.14-11.01.14:532][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes79)
+[2021.06.14-11.01.17:077][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes60)
+[2021.06.14-11.01.18:609][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes76)
+[2021.06.14-11.01.19:528][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes59)
+[2021.06.14-11.01.21:930][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes57)
+[2021.06.14-11.01.28:170][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes44)
+[2021.06.14-11.01.39:934][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes71)
+[2021.06.14-11.01.43:920][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes21)
+[2021.06.14-11.02.05:100][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes27)
+[2021.06.14-11.02.07:866][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes27)
+[2021.06.14-11.02.09:665][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes75)
+[2021.06.14-11.02.11:712][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes21)
+[2021.06.14-11.02.13:497][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes29)
+[2021.06.14-11.02.15:348][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes25)
+[2021.06.14-11.02.16:406][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes24)
+[2021.06.14-11.02.18:415][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes19)
+[2021.06.14-11.02.22:120][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes14)
+[2021.06.14-11.02.23:002][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes17)
+[2021.06.14-11.02.26:779][549]MapCheck: New page: Map Check
+[2021.06.14-11.02.26:867][549]LightingResults: New page: Lighting Build - Jun 14, 2021, 3:02:26 PM
+[2021.06.14-11.02.26:972][549]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.06.14-11.02.27:059][549]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.06.14-11.02.27:077][549]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.06.14-11.02.28:122][549]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.06.14-11.02.28:122][549]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9044
+[2021.06.14-11.02.35:574][549]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.06.14-11.02.35:574][549]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.06.14-11.02.35:574][549]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.06.14-11.02.35:574][549]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.06.14-11.02.35:574][549]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.06.14-11.02.35:827][549]LogEditorBuildUtils: Build time 0:08
+[2021.06.14-11.02.35:917][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.06.14-11.03.02:921][963]Job is a success!
+[2021.06.14-11.03.03:069][965]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.046s
+[2021.06.14-11.03.03:070][965]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2021.06.14-11.03.03:070][965]LogVolumetricLightmapImport:      BrickData (all levels) 0.6Mb (trimmed 1.8Mb due to 0.010000 MinBrickError)
+[2021.06.14-11.03.03:070][965]LogVolumetricLightmapImport:      Bricks at depth
+[2021.06.14-11.03.03:070][965]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2021.06.14-11.03.03:070][965]LogVolumetricLightmapImport:          1: 19.2% covering 18.8% of volume
+[2021.06.14-11.03.03:070][965]LogVolumetricLightmapImport:          2: 79.2% covering 1.2% of volume
+[2021.06.14-11.03.03:070][965]LogVolumetricLightmapImport:      Bricks in each level
+[2021.06.14-11.03.03:070][965]LogVolumetricLightmapImport:          Map 			 125 bricks 	 100.0% (Persistent Level)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2021.06.14-11.03.04:204][965]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2021.06.14-11.03.04:329][965]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X64)
+[2021.06.14-11.03.04:329][965]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 64X64)
+[2021.06.14-11.03.04:329][965]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2021.06.14-11.03.04:329][965]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X128)
+[2021.06.14-11.03.04:329][965]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2021.06.14-11.03.04:329][965]LogStaticLightingSystem: Map_BuiltData storing lightmap data for 137 meshes in 13 LightmapResourceClusters (10.5 Meshes per cluster).
+[2021.06.14-11.03.04:333][965]Lightmass on OSCAR: 27.2 sec total, 135 ms importing, 7 ms setup, 2.85 sec photons, 24.2 sec processing, 0 ms extra exporting [137/137 mappings]. Threads: 1:36 min total, 47.4 sec processing.
+[2021.06.14-11.03.04:342][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.14-11.03.04:355][965]LogStaticLightingSystem: Illumination: 37.4 sec (1.05 sec encoding lightmaps, 87 ms encoding shadowmaps)
+[2021.06.14-11.03.04:362][965]LogStaticLightingSystem: Lightmap texture memory:  3.8 MB (3.8 MB streaming, 0.0 MB non-streaming), 12 textures
+[2021.06.14-11.03.04:362][965]LogStaticLightingSystem: Shadowmap texture memory: 3.7 MB (3.7 MB streaming, 0.0 MB non-streaming), 5 textures
+[2021.06.14-11.03.04:591][965]DumpUnbuiltLightIteractions
+[2021.06.14-11.03.04:591][965]Lights with unbuilt interactions: 0
+[2021.06.14-11.03.04:591][965]
+[2021.06.14-11.03.04:591][965]Primitives with unbuilt interactions: 0
+[2021.06.14-11.03.04:633][966]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.06.14-11.03.04:633][966]MapCheck: New page: Map - Jun 14, 2021, 3:03:04 PM
+[2021.06.14-11.03.04:636][966]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.813ms to complete.
+[2021.06.14-11.03.37:135][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes88)
+[2021.06.14-11.03.37:992][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes66)
+[2021.06.14-11.03.42:440][464]Cmd: TRANSACTION UNDO
+[2021.06.14-11.03.42:440][464]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.14-11.03.43:318][533]Cmd: TRANSACTION UNDO
+[2021.06.14-11.03.43:318][533]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.14-11.04.02:809][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes66)
+[2021.06.14-11.04.07:386][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes59)
+[2021.06.14-11.04.14:166][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes57)
+[2021.06.14-11.04.17:466][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes44)
+[2021.06.14-11.04.24:841][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes75)
+[2021.06.14-11.04.37:529][883]MapCheck: New page: Map Check
+[2021.06.14-11.04.37:539][883]LightingResults: New page: Lighting Build - Jun 14, 2021, 3:04:37 PM
+[2021.06.14-11.04.37:544][883]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.06.14-11.04.37:547][883]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.06.14-11.04.37:547][883]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.06.14-11.04.37:548][883]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.06.14-11.04.37:548][883]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9044
+[2021.06.14-11.04.42:156][883]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.06.14-11.04.42:156][883]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.06.14-11.04.42:156][883]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.06.14-11.04.42:156][883]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.06.14-11.04.42:156][883]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.06.14-11.04.42:277][883]LogEditorBuildUtils: Build time 0:04
+[2021.06.14-11.04.42:305][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.14-11.05.08:109][231]Job is a success!
+[2021.06.14-11.05.08:233][232]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.038s
+[2021.06.14-11.05.08:233][232]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2021.06.14-11.05.08:233][232]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb (trimmed 1.7Mb due to 0.010000 MinBrickError)
+[2021.06.14-11.05.08:233][232]LogVolumetricLightmapImport:      Bricks at depth
+[2021.06.14-11.05.08:233][232]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2021.06.14-11.05.08:233][232]LogVolumetricLightmapImport:          1: 18.0% covering 18.8% of volume
+[2021.06.14-11.05.08:233][232]LogVolumetricLightmapImport:          2: 80.5% covering 1.3% of volume
+[2021.06.14-11.05.08:233][232]LogVolumetricLightmapImport:      Bricks in each level
+[2021.06.14-11.05.08:233][232]LogVolumetricLightmapImport:          Map 			 133 bricks 	 100.0% (Persistent Level)
+[2021.06.14-11.05.09:347][232]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2021.06.14-11.05.09:347][232]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.06.14-11.05.09:347][232]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 256X128)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 256X128)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 64X32)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2021.06.14-11.05.09:348][232]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2021.06.14-11.05.09:455][232]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X64)
+[2021.06.14-11.05.09:455][232]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 64X64)
+[2021.06.14-11.05.09:455][232]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2021.06.14-11.05.09:455][232]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X128)
+[2021.06.14-11.05.09:455][232]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X512)
+[2021.06.14-11.05.09:455][232]LogStaticLightingSystem: Map_BuiltData storing lightmap data for 137 meshes in 14 LightmapResourceClusters (9.8 Meshes per cluster).
+[2021.06.14-11.05.09:459][232]Lightmass on OSCAR: 26.5 sec total, 125 ms importing, 10 ms setup, 2.65 sec photons, 23.6 sec processing, 0 ms extra exporting [137/137 mappings]. Threads: 1:34 min total, 45.7 sec processing.
+[2021.06.14-11.05.09:470][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.14-11.05.09:481][232]LogStaticLightingSystem: Illumination: 31.9 sec (1.05 sec encoding lightmaps, 87 ms encoding shadowmaps)
+[2021.06.14-11.05.09:481][232]LogStaticLightingSystem: Lightmap texture memory:  3.8 MB (3.8 MB streaming, 0.0 MB non-streaming), 12 textures
+[2021.06.14-11.05.09:481][232]LogStaticLightingSystem: Shadowmap texture memory: 3.7 MB (3.7 MB streaming, 0.0 MB non-streaming), 5 textures
+[2021.06.14-11.05.10:175][232]DumpUnbuiltLightIteractions
+[2021.06.14-11.05.10:175][232]Lights with unbuilt interactions: 0
+[2021.06.14-11.05.10:175][232]
+[2021.06.14-11.05.10:175][232]Primitives with unbuilt interactions: 0
+[2021.06.14-11.05.10:221][233]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.06.14-11.05.10:221][233]MapCheck: New page: Map - Jun 14, 2021, 3:05:10 PM
+[2021.06.14-11.05.10:222][233]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1ms to complete.
+[2021.06.14-11.05.41:253][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Stairs2)
+[2021.06.14-11.06.20:664][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes21)
+[2021.06.14-11.07.54:087][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes71)
+[2021.06.14-11.08.09:344][249]Cmd: TRANSACTION UNDO
+[2021.06.14-11.08.09:344][249]LogEditorTransaction: Undo Move Actors
+[2021.06.14-11.08.10:905][409]Cmd: TRANSACTION UNDO
+[2021.06.14-11.08.10:905][409]LogEditorTransaction: Undo Move Actors
+[2021.06.14-11.08.13:120][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes30)
+[2021.06.14-11.08.26:322][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes71)
+[2021.06.14-11.08.54:872][597]Cmd: TRANSACTION UNDO
+[2021.06.14-11.08.54:872][597]LogEditorTransaction: Undo Move Actors
+[2021.06.14-11.08.55:461][642]Cmd: TRANSACTION UNDO
+[2021.06.14-11.08.55:461][642]LogEditorTransaction: Undo Scale Actors
+[2021.06.14-11.08.56:030][709]Cmd: TRANSACTION UNDO
+[2021.06.14-11.08.56:030][709]LogEditorTransaction: Undo Move Actors
+[2021.06.14-11.09.23:237][914]Cmd: TRANSACTION UNDO
+[2021.06.14-11.09.23:237][914]LogEditorTransaction: Undo Scale Actors
+[2021.06.14-11.09.33:444][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes37)
+[2021.06.14-11.10.42:666][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Stairs7)
+[2021.06.14-11.11.08:380][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes92)
+[2021.06.14-11.11.34:478][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes94)
+[2021.06.14-11.11.44:013][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes96)
+[2021.06.14-11.11.49:049][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes96)
+[2021.06.14-11.11.53:827][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes77)
+[2021.06.14-11.11.57:851][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes96)
+[2021.06.14-11.12.02:532][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes89)
+[2021.06.14-11.12.08:846][627]Cmd: TRANSACTION UNDO
+[2021.06.14-11.12.08:846][627]LogEditorTransaction: Undo Move Actors
+[2021.06.14-11.12.34:598][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes77)
+[2021.06.14-11.12.41:316][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes90)
+[2021.06.14-11.12.53:254][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes96)
+[2021.06.14-11.13.04:332][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes95)
+[2021.06.14-11.13.14:259][ 90]Cmd: TRANSACTION UNDO
+[2021.06.14-11.13.14:259][ 90]LogEditorTransaction: Undo Scale Actors
+[2021.06.14-11.13.14:502][106]Cmd: TRANSACTION UNDO
+[2021.06.14-11.13.14:502][106]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.14-11.13.14:981][143]Cmd: TRANSACTION UNDO
+[2021.06.14-11.13.14:981][143]LogEditorTransaction: Undo Scale Actors
+[2021.06.14-11.13.21:448][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes95)
+[2021.06.14-11.13.45:883][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes95)
+[2021.06.14-11.14.42:945][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrierWall10)
+[2021.06.14-11.14.59:004][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes78)
+[2021.06.14-11.15.06:408][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes59)
+[2021.06.14-11.15.13:372][ 63]Cmd: TRANSACTION UNDO
+[2021.06.14-11.15.13:372][ 63]LogEditorTransaction: Undo Move Actors
+[2021.06.14-11.15.18:853][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrierWall8)
+[2021.06.14-11.16.13:985][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.06.14-11.16.14:012][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map" FILE="../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Autosaves/Game/Levels/Map_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.14-11.16.14:070][390]LogSavePackage: Moving '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Map_Auto44A4D79BA4E53E25C461899A0D117BEEA.tmp' to '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Autosaves/Game/Levels/Map_Auto4.umap'
+[2021.06.14-11.16.14:071][390]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Map' took 0.099
+[2021.06.14-11.16.14:071][390]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.099
+[2021.06.14-11.20.29:598][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes97)
+[2021.06.14-11.20.45:894][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes88)
+[2021.06.14-11.20.47:080][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes90)
+[2021.06.14-11.21.36:806][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes88)
+[2021.06.14-11.21.40:058][312]Cmd: TRANSACTION UNDO
+[2021.06.14-11.21.40:058][312]LogEditorTransaction: Undo Scale Actors
+[2021.06.14-11.21.47:237][124]Cmd: DELETE
+[2021.06.14-11.21.47:237][124]Cmd: ACTOR DELETE
+[2021.06.14-11.21.47:240][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.14-11.21.47:246][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.06.14-11.21.47:248][124]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.14-11.21.48:964][329]Cmd: TRANSACTION UNDO
+[2021.06.14-11.21.48:964][329]LogEditorTransaction: Undo Delete Actors
+[2021.06.14-11.22.19:325][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes2)
+[2021.06.14-11.22.25:998][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes2)
+[2021.06.14-11.22.27:528][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes93)
+[2021.06.14-11.22.41:528][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes95)
+[2021.06.14-11.22.46:228][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes96)
+[2021.06.14-11.22.53:071][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrierWall17)
+[2021.06.14-11.23.10:475][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrierWall17)
+[2021.06.14-11.23.12:306][835]Cmd: DELETE
+[2021.06.14-11.23.12:306][835]Cmd: ACTOR DELETE
+[2021.06.14-11.23.12:310][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.14-11.23.12:316][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.06.14-11.23.12:317][835]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.14-11.24.44:077][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrierWall16)
+[2021.06.14-11.25.07:527][487]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (barrierWall17)
+[2021.06.14-11.25.16:458][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrierWall17)
+[2021.06.14-11.25.37:832][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes97)
+[2021.06.14-11.25.43:429][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes94)
+[2021.06.14-11.25.58:576][952]Cmd: TRANSACTION UNDO
+[2021.06.14-11.25.58:576][952]LogEditorTransaction: Undo Scale Actors
+[2021.06.14-11.26.25:420][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.14-11.26.25:618][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map" FILE="../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Autosaves/Game/Levels/Map_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.14-11.26.25:670][272]LogSavePackage: Moving '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Map_Auto5D8F3AD8F4FA309FF7594B3A161889BE2.tmp' to '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Autosaves/Game/Levels/Map_Auto5.umap'
+[2021.06.14-11.26.25:671][272]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Map' took 0.259
+[2021.06.14-11.26.25:671][272]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.259
+[2021.06.14-11.27.00:750][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (torch27)
+[2021.06.14-11.27.14:600][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes90)
+[2021.06.14-11.29.03:901][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes96)
+[2021.06.14-11.29.49:166][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrierWall17)
+[2021.06.14-11.29.49:884][824]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (barrierWall17)
+[2021.06.14-11.29.59:534][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes96)
+[2021.06.14-11.30.40:455][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrierWall17)
+[2021.06.14-11.30.55:683][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrierWall21)
+[2021.06.14-11.31.12:516][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes95)
+[2021.06.14-11.31.16:588][532]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2021.06.14-11.31.32:540][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes97)
+[2021.06.14-11.31.42:148][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (torch27)
+[2021.06.14-11.31.43:074][599]Cmd: DELETE
+[2021.06.14-11.31.43:074][599]Cmd: ACTOR DELETE
+[2021.06.14-11.31.43:079][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.14-11.31.43:080][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.14-11.31.43:080][599]LogEditorActor: Deleted Actor: PointLight
+[2021.06.14-11.31.43:088][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.06.14-11.31.43:089][599]LogEditorActor: Deleted 3 Actors (0.015 secs)
+[2021.06.14-11.31.57:306][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrierWall16)
+[2021.06.14-11.36.26:017][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.06.14-11.36.26:035][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map" FILE="../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Autosaves/Game/Levels/Map_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.14-11.36.26:101][148]LogSavePackage: Moving '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Map_Auto6C37B12414A9CDEEF70ADCCBD027F692E.tmp' to '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Autosaves/Game/Levels/Map_Auto6.umap'
+[2021.06.14-11.36.26:102][148]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Map' took 0.109
+[2021.06.14-11.36.26:102][148]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.109
+[2021.06.14-11.37.20:829][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map" FILE="../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Content/Levels/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.14-11.37.20:835][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.06.14-11.37.20:882][468]LogSavePackage: Moving '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/MapD9A60ADC4E525E4FDB3D5CBC3518F7F4.tmp' to '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Content/Levels/Map.umap'
+[2021.06.14-11.37.20:892][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map_BuiltData" FILE="../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Content/Levels/Map_BuiltData.uasset" SILENT=true
+[2021.06.14-11.37.21:032][468]LogSavePackage: Moving '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Saved/Map_BuiltDataA5D2B4974EAA5AAADB507C980C89024E.tmp' to '../../../../../../UNI/4t/LVL-DESIGN/Unreal-Tutorial/Tutorial/Content/Levels/Map_BuiltData.uasset'
+[2021.06.14-11.37.21:041][468]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.14-11.37.21:041][468]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Map_BuiltData.Map_BuiltData
+[2021.06.14-11.37.21:041][468]LogContentValidation: Display: Validating World /Game/Levels/Map.Map
